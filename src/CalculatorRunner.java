@@ -4,6 +4,7 @@ public class CalculatorRunner {
 
         Calculator calculator=new Calculator();
         calculator.add(4,6);
+        System.out.println(calculator.subtract(4, 2));
 
 
     }
